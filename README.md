@@ -1,8 +1,21 @@
+<div align="center">
+  <img src="https://i.ibb.co/hy55hb2/ch-ban.png" alt="banner2" border="0" /></a>
+</div>
+
 ## <div align="center">О данном проекте📝</div>
 <p>Данная система представляет собой решение, включающее в себя несколько нейросетей, обёрнутых в веб приложение, развёртывающихся в докере. Целью системы является детекция и распознавание номеров грузовых ж/д вагонов, для автоматизации учёта.
 </p>
 
-## <div align="center">Запуск🔮</div>
+## <div align="center">Стэк технологий📑</div>
+<div align="center">
+  <a href="https://www.python.org/doc/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+  <a href="https://pytorch.org/docs/stable/index.html"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
+  <a href="https://opencv.github.io/cvat/docs/"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
+  <br>
+  <a href="https://github.com/ultralytics/ultralytics?tab=readme-ov-file"><img src="https://img.shields.io/badge/Ultralytics-YOLOv8-purple.svg"></a>
+</div>
+
+## <div align="center">Запуск версии с докером 🔮</div>
 <p>
 !Вам понядобятся веса, доступные по этой <a href="https://disk.yandex.ru/d/6kH-wY8P_AWxuQ">ссылке</a> после загрузки их необходимо положить по пути backend/modules/models!
 </p>
@@ -30,19 +43,6 @@ $ docker compose build
 $ docker compose up
 ```
 </details>
-
-<div align="center">
-  <img src="https://i.ibb.co/hy55hb2/ch-ban.png" alt="banner2" border="0" /></a>
-</div>
-
-## <div align="center">Стэк технологий📑</div>
-<div align="center">
-  <a href="https://www.python.org/doc/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-  <a href="https://pytorch.org/docs/stable/index.html"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
-  <a href="https://opencv.github.io/cvat/docs/"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
-  <br>
-  <a href="https://github.com/ultralytics/ultralytics?tab=readme-ov-file"><img src="https://img.shields.io/badge/Ultralytics-YOLOv8-purple.svg"></a>
-</div>
 
 ## <div align="center">О нашем решении📝</div>
 <p>
