@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://i.ibb.co/hy55hb2/ch-ban.png" alt="banner2" border="0" /></a>
+  <img src="https://i.ibb.co/XbjrQZ4/qx-KFQHTELBc.jpg" alt="banner2" border="0" /></a>
 </div>
 
 ## <div align="center">О решении📝</div>
-<p>Данная система представляет собой решение, включающее в себя несколько нейросетей, обёрнутых в веб приложение, развёртывающихся в докере. Целью системы является распознавание маркировки, нанесённой ударным способом, на металлическом изделии.
+<p align="justify">Мы рады представить наше приложение, построенное на клиент-серверной архитектуре. Наше решение включает программный модуль, способный автоматически распознавать маркировку деталей по фотографиям, сделанным на различных металлических поверхностях.
 </p>
 
 ## <div align="center">Стэк технологий📑</div>
@@ -11,8 +11,13 @@
   <a href="https://www.python.org/doc/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
   <a href="https://pytorch.org/docs/stable/index.html"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
   <a href="https://opencv.github.io/cvat/docs/"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
+  <a href="https://github.com/JetBrains/kotlin"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
+  <a href="https://developer.android.com/develop"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+  <a href="https://flask.palletsprojects.com/en/stable/"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
+  <a href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"></a>
+
   <br>
-  <a href="https://github.com/ultralytics/ultralytics?tab=readme-ov-file"><img src="https://img.shields.io/badge/Ultralytics-YOLOv8-purple.svg"></a>
+  <a href="https://github.com/ultralytics/ultralytics?tab=readme-ov-file"><img src="https://img.shields.io/badge/Ultralytics-YOLOv11-purple.svg"></a>
 </div>
 
 ## <div align="center">Запуск версии с докером 🔮</div>
